@@ -43,7 +43,7 @@ figure {
 }
 
 #fixed {
-    background-image: url('img/mac.png');
+    background-image: url('./assets/images/mac.png');
     position: fixed;
     display: block;
     top: 0;
